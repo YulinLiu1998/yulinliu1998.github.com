@@ -8,7 +8,7 @@
       <p><b>地址：北京市朝阳区平乐园100号北京工业大学中蓝公寓</b></p>
     </td>
     <td width="25%">
-      <img src="/ganda.png.jpg" width="100%">      % 插入证件照代码
+      <img src="/WechatIMG4830.jpeg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
